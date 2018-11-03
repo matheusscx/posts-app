@@ -9,7 +9,7 @@ Esta es una pequeña aplicación web para manejar.
 3. Listar posts
 4. Filtrar posts por nombre
 
-> Visítala [aqui](https://git.heroku.com/app-posts.git).
+> Visítala [aqui](https://app-posts.herokuapp.com).
 
 
 

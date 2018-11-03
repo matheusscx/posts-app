@@ -1,5 +1,5 @@
 const { Pool } = require('pg')
-const connectionString = process.env.URLDB;
+const connectionString = process.env.URIDB;
 
 
 const pool = new Pool({
