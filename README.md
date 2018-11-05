@@ -1,6 +1,6 @@
 # Aplicación para manejar Posts.
 
-Esta es una pequeña aplicación web para manejar.
+Esta es una pequeña aplicación web para manejar posts.
 
 ## Funcionalidades de la aplicación 
 
